@@ -1,2 +1,0 @@
-# brainwave-trivia
-# brainwave-trivia
